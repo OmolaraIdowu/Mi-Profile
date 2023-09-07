@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi Profile</string>
+    <string name="profile_name">Omolara Idowu</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="profile_username"><b>Display name:</b> Lara</string>
+    <string name="open_github">Open GitHub</string>
+    <string name="about_content"><b>About Me:</b> Budding Android developer with a great affinity for writing clean and efficient code. I\'m passionate about creating mobile applications that provide a seamless user experience.</string>
+    <string name="pronouns"><b>Pronouns:</b> She, Her</string>
+</resources>
